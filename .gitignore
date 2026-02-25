@@ -1,0 +1,12 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Project specific
+download/
+
+# OS specific (since you're on WSL/Windows)
+.DS_Store
+Thumbs.db
